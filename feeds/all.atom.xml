@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon Indonesia 2019</title><link href="https://pyconid.github.io/pyconid2019/" rel="alternate"></link><link href="https://pyconid.github.io/pyconid2019/feeds/all.atom.xml" rel="self"></link><id>https://pyconid.github.io/pyconid2019/</id><updated>2010-12-03T10:20:00+07:00</updated><subtitle>Surabaya Python User Group</subtitle><entry><title>My First Review</title><link href="https://pyconid.github.io/pyconid2019/articles/my-first-review" rel="alternate"></link><published>2010-12-03T10:20:00+07:00</published><updated>2010-12-03T10:20:00+07:00</updated><author><name>PyCon Indonesia</name></author><id>tag:pyconid.github.io,2010-12-03:/pyconid2019/articles/my-first-review</id><summary type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard.
+ini testing baru.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;this&lt;/span&gt;
+
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Hello world&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard.
+ini testing baru.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;this&lt;/span&gt;
+
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Hello world&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</content></entry></feed>
